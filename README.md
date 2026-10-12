@@ -27,6 +27,8 @@ I build full-stack web apps, AR experiences and data tools — mostly with
 - **Her Story** — https://herstory.vercel.app
 - **Trading Signals** — https://trading-signals.vercel.app
 - **Body of Work** — https://teboho-mohale98.github.io/body-of-work/
+- **MD Health Connexions** — https://teboho-mohale98.github.io/MDCONNECTIVITY/
+- **Taxi Tracker** — https://teboho-mohale98.github.io/Taxi-Tracker/
 
 ## Reach me
 
